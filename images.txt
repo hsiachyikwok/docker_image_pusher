@@ -1,4 +1,7 @@
 #云控相关镜像
+amazoncorretto:21
+amazoncorretto:17
+amazoncorretto:11
 nginx:latest
 redis:7.2.4
 mongo:7.0.8
