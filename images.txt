@@ -1,6 +1,12 @@
-nginx
-#支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#云控相关镜像
+nginx:latest
+redis:7.2.4
+mongo:7.0.8
+emqx/emqx:5.6.0
+mysql:8.0
+kartoza/postgis:16-3.4
+nacos/nacos-server:v2.3.0
+bitnami/minio:2024.5.7
+influxdb:2.4
+kartoza/geoserver:2.16.1
+kartoza/geoserver:latest
