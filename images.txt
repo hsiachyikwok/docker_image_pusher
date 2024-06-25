@@ -3,6 +3,7 @@ nginx:latest
 redis:7.2.4
 mongo:7.0.8
 emqx/emqx:5.6.0
+mysql:5.7
 mysql:8.0
 kartoza/postgis:16-3.4
 nacos/nacos-server:v2.3.0
@@ -10,3 +11,4 @@ bitnami/minio:2024.5.7
 influxdb:2.4
 kartoza/geoserver:2.16.1
 kartoza/geoserver:latest
+yeelabs/yearning:v3.1.7
