@@ -1,7 +1,10 @@
 #云控相关镜像
 amazoncorretto:21
+openjdk:21
 amazoncorretto:17
+openjdk:17
 amazoncorretto:11
+openjdk:11
 nginx:latest
 redis:7.2.4
 mongo:7.0.8
