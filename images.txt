@@ -16,5 +16,6 @@ nacos/nacos-server:v2.3.0
 bitnami/minio:2024.5.7
 influxdb:2.4
 kartoza/geoserver:2.16.1
+kartoza/geoserver:2.25.2
 kartoza/geoserver:latest
 yeelabs/yearning:v3.1.7
