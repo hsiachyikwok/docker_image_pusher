@@ -22,3 +22,7 @@ kartoza/geoserver:latest
 yeelabs/yearning:v3.1.7
 sonarqube:lts-community
 postgres:11
+#skywalking
+docker.elastic.co/elasticsearch/elasticsearch:7.17.0
+apache/skywalking-oap-server:9.7.0
+apache/skywalking-ui:9.7.0
