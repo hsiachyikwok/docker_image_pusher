@@ -33,3 +33,7 @@ minio/minio:RELEASE.2023-06-02T23-17-26Z.fips
 louislam/uptime-kuma:1.23.12-alpine
 louislam/uptime-kuma:1.23.15-alpine
 louislam/uptime-kuma:latest
+jrottenberg/ffmpeg:7.1-scratch
+jrottenberg/ffmpeg:latest
+mycujoo/nginx-http-flv-module:latest
+
