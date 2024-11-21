@@ -36,4 +36,6 @@ louislam/uptime-kuma:latest
 jrottenberg/ffmpeg:7.1-scratch
 jrottenberg/ffmpeg:latest
 mycujoo/nginx-http-flv-module:latest
+sonatype/nexus3:latest
+sonatype/nexus3:3.74.0-ubi
 
