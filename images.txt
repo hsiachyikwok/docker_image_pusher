@@ -5,12 +5,14 @@ amazoncorretto:17
 openjdk:17
 amazoncorretto:11
 openjdk:11
+openjdk:8-jdk-alpine
 nginx:latest
 redis:7.2.4
 mongo:7.0.8
 emqx/emqx:5.6.0
 mysql:5.7
 mysql:8.0
+mysql:8.0.21
 kartoza/postgis:16-3.4
 nacos/nacos-server:v2.3.0
 bitnami/minio:2024.5.7
@@ -38,4 +40,5 @@ jrottenberg/ffmpeg:latest
 mycujoo/nginx-http-flv-module:latest
 sonatype/nexus3:latest
 sonatype/nexus3:3.74.0-ubi
+
 
