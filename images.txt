@@ -21,6 +21,7 @@ kartoza/geoserver:2.16.1
 kartoza/geoserver:2.23.0
 kartoza/geoserver:2.25.2
 kartoza/geoserver:latest
+docker.osgeo.org/geoserver:2.26.1
 yeelabs/yearning:v3.1.7
 sonarqube:lts-community
 postgres:11
