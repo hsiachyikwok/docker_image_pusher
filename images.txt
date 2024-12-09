@@ -8,8 +8,11 @@ openjdk:11
 openjdk:8-jdk-alpine
 nginx:latest
 redis:7.2.4
+redis:7.4.1
 mongo:7.0.8
+mongo:8.0.3
 emqx/emqx:5.6.0
+emqx/emqx:5.8.3
 mysql:5.7
 mysql:8.0
 mysql:8.0.21
