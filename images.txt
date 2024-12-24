@@ -20,6 +20,7 @@ kartoza/postgis:16-3.4
 nacos/nacos-server:v2.3.0
 bitnami/minio:2024.5.7
 influxdb:2.4
+influxdb:1.8
 kartoza/geoserver:2.16.1
 kartoza/geoserver:2.23.0
 kartoza/geoserver:2.25.2
