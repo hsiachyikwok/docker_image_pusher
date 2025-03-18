@@ -45,5 +45,7 @@ jrottenberg/ffmpeg:latest
 mycujoo/nginx-http-flv-module:latest
 sonatype/nexus3:latest
 sonatype/nexus3:3.74.0-ubi
+gitea/gitea:latest
+
 
 
