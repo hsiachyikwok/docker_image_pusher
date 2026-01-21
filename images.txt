@@ -18,6 +18,7 @@ mysql:8.0
 mysql:8.0.21
 kartoza/postgis:16-3.4
 nacos/nacos-server:v2.3.0
+nacos/nacos-server:v3.0.0
 bitnami/minio:2024.5.7
 influxdb:2.4
 influxdb:1.8
@@ -46,7 +47,6 @@ mycujoo/nginx-http-flv-module:latest
 sonatype/nexus3:latest
 sonatype/nexus3:3.74.0-ubi
 gitea/gitea:latest
-nacos/nacos-server:v3.0.0
 
 
 
