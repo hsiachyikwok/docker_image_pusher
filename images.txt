@@ -1,12 +1,12 @@
 #云控相关镜像
 nacos/nacos-server:v3.0.0
 amazoncorretto:21
-openjdk:21
+#openjdk:21
 amazoncorretto:17
-openjdk:17
+#openjdk:17
 amazoncorretto:11
-openjdk:11
-openjdk:8-jdk-alpine
+#openjdk:11
+#openjdk:8-jdk-alpine
 nginx:latest
 redis:7.2.4
 redis:7.4.1
