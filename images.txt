@@ -1,4 +1,5 @@
 #云控相关镜像
+nacos/nacos-server:v3.0.0
 amazoncorretto:21
 openjdk:21
 amazoncorretto:17
@@ -18,7 +19,6 @@ mysql:8.0
 mysql:8.0.21
 kartoza/postgis:16-3.4
 nacos/nacos-server:v2.3.0
-nacos/nacos-server:v3.0.0
 bitnami/minio:2024.5.7
 influxdb:2.4
 influxdb:1.8
