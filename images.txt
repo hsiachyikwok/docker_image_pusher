@@ -1,4 +1,5 @@
 #云控相关镜像
+eclipse-temurin:21-jre
 nacos/nacos-server:v3.0.0
 amazoncorretto:21
 #openjdk:21
